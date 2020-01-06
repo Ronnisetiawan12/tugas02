@@ -12,8 +12,8 @@
 
 		<tr>
 			<th width="200px" height=70px></th>
-			<th bgcolor=#52dede width="100px" height=70px><font size=5><a href="home.html" target="_top" style="text-decoration:none">Beranda</a></font>  </th>
-			<th bgcolor=#52dede width="100px" height=70px><font size=5><a href="biodata.html" target="_top" style="text-decoration:none">Biodata</a></font>  </th>
+			<th bgcolor=#52dede width="100px" height=70px><font size=5><a href="index.php" target="_top" style="text-decoration:none">Beranda</a></font>  </th>
+			<th bgcolor=#52dede width="100px" height=70px><font size=5><a href="biodata.php" target="_top" style="text-decoration:none">Biodata</a></font>  </th>
 			<th width="200px" height=70px></th>
 		</tr>
 	</table>
