@@ -20,7 +20,7 @@
 
 	<table background="wall.png" border=0 width="100%" height="100%">
 		<tr >
-			<td  align="center" colspan=6> <img src="Header.png" width="100%" height="100%">  </td>
+			<td  align="center" colspan=6> <img src="HEADER.png" width="100%" height="100%">  </td>
 		</tr>
 
 		<tr>
