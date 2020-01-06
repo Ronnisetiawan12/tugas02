@@ -24,8 +24,8 @@
 
 		<tr>
 			<th width="200px" height=70px> </th>
-			<th bgcolor=#52dede width="100px" height=70px><font size=5><a href="home.html" target="_top" style="text-decoration:none">Beranda</a></font>  </th>
-			<th bgcolor=#52dede width="100px" height=70px><font size=5><a href="biodata.html" target="_top" style="text-decoration:none">Biodata</a></font>  </th>
+			<th bgcolor=#52dede width="100px" height=70px><font size=5><a href="index.php" target="_top" style="text-decoration:none">Beranda</a></font>  </th>
+			<th bgcolor=#52dede width="100px" height=70px><font size=5><a href="biodata.php" target="_top" style="text-decoration:none">Biodata</a></font>  </th>
 			<th width="200px" height=70px></th>
 		</tr>
 	</table>
@@ -46,11 +46,11 @@
 		<tr align=center style="font-size:18px">
 
 			<td width=10%> Badminton </td>
-			<td id="tab" width=auto height=0px> <a href="Sepak Bola.html"><li>Sepak Bola </li></a>
-				<a href="Basketball.html"><li>Basketball </li></a>
-				<a href="Badminton.html"><li>Badminton </li></a>
-				<a href="Olaraga Sepeda.html"><li>Olaraga Sepeda </li></a>
-				<a href="Bela Diri.html"><li>Bela Diri </li></a></td>
+			<td id="tab" width=auto height=0px> <a href="sepakbola.php"><li>Sepak Bola </li></a>
+				<a href="basketball.php"><li>Basketball </li></a>
+				<a href="badminton.php"><li>Badminton </li></a>
+				<a href="olaragasepeda.php"><li>Olaraga Sepeda </li></a>
+				<a href="beladiri.php"><li>Bela Diri </li></a></td>
 			<td height=10px></td>
 		</tr>
 	</table>
